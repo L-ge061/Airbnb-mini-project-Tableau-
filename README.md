@@ -1,10 +1,11 @@
 # Airbnb Mini Project
 
+
 ## Overview
 
 
-## Files
-
+## Dataset
+The original dataset can be downloaded from Kaggle: [Airbnb Listings 2016 Dataset] (www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ## How to Open
 
