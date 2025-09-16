@@ -8,9 +8,9 @@
 The original dataset is from Kaggle: [Airbnb Listings 2016 Dataset] (www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ## How to Open
-1. Download Tableau Desktop or Tableau Public.
-2. Open the `.twbx` file from the `workbook/` folder.  
-Everything needed to view and interact with the dashboards is included in the packaged workbook (twbx).
+1. Download the `.twbx` file.
+2. Use Tableau Desktop to open the `.twbx` file or view in Tableau Cloud/Online with the link: 
+Everything needed to view and interact with the dashboards is included in the packaged workbook (`.twbx`).
 
 ## Key Insights
 
